@@ -8,7 +8,7 @@ Open your current COBALT → **Export progress** → Copy. Paste it somewhere sa
 2. Name it `cobalt`. Set it to **Public** (free Pages hosting needs a public repo). Click **Create repository**.
 3. Click **"uploading an existing file"**. Drag in EVERYTHING from this zip, including the `icons` folder. Click **Commit changes**.
 4. Go to **Settings → Pages**. Under *Build and deployment*, choose **Deploy from a branch**, branch **main**, folder **/ (root)**, then **Save**.
-5. Wait 1–2 minutes. Your app lives at **https://YOUR-USERNAME.github.io/cobalt/**
+5. Wait 1–2 minutes. Your app lives at **https://Zbruntmy.github.io/cobalt/**
 
 ## 2. Install it on your phone
 - **Android (Chrome):** open the link, tap **⬇ Install app** on the home screen (or ⋮ menu → *Install app*).
